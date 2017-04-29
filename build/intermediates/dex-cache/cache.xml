@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\d1576ec4d7b1287c3b7381c34bf314345705fdc3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9293156641bde9362b9bdfa16f70592f8501b3e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\4047559e937ccf5b7353585e6a6bdc255bcecfa7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67d9998bbd155216a7dc5968fd3bccc40b114f01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\20298c19de142e1f1b39bf59eac23e080d2d936a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7be28f291d71ac908f12b967266cb10e3f9efb67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\bf12cf61e164d255e088e56405ab86eafeed05fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5249d1231dd4a49f2b6a93caf3ad0618e4fe0a20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\6787c521544e5d675b7faecb41eb560a1afa4db3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82995e0360452b5046295fa2ef8293ff28113e30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\dfb36f2e455d62df1546f06b075635f3047e3eee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28720020be3fa91918fdb787126348f947eb1883\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\fab646f458ecbe846b78b618773ccaf5eeba55b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4c2be7185776add68a4b978e72c0fdc03c75b5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\6ed22e10f008ffb4c76d8690e9de12d61cf7283b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09dcc3b881b302c3d7d95708f72731468be54d4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\a2d1f91fd1152420ea9a9e5dac154c54f2773d84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_099af5094e50aff01b5737a9b4965685acab33e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_46fd830a70463f57cae2e4827430fe9bbc1d7222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\bf12cf61e164d255e088e56405ab86eafeed05fc\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8d8536a1c481046198976050b0cb2bb77257a755\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\8b3a158eb5c32a826e3520136b31d9ccaf987b53\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_643f5741cefa7bab6b7f01d619ab6c7745b4c6ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\963d71ac0ec95e7008535eee4354a764aa2aa8ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34cd4e205ea788f46a2f84946b1ec0c903c53163\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_352d5e287b4785e5c42b3bb4fb824cadf3b59b18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\8f6874db460bd73ce785de74f9febab8341145ba\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_185c57f54ccea80d59cd8d3cc7c3a835bea92ffe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\4a84ce9af817d5526c0f2c350f13ec45a2b34180\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e45ee2e8af31f9d0aa5502cf03c9c828c5fd0d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\df9e6de4d08e2892a8970bbc8f7b5885db76e1a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_778c684b6818fba47f63bc3caf77133cb9eb0c81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\f97215cdb1be9f1086da44c30f84314ef024c188\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e7df9c0e592721129d8213ef3228b3bf154c8bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_84ef435372007efdb01910f29b393ef134b8d0d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\d2d13dbbfcb2b02c7629649fbdcba170b3929b3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d0b4c054fcc5a456071faceb3685c679a4d0210\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_83b0891a7b01cf897cb9ec36cfe42470474d5fb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\d2d13dbbfcb2b02c7629649fbdcba170b3929b3d\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8ccb1462161f9aa7bb0b52db19d129d3891727d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\4233f5cd70cfa7c149613d671e16c155e2380911\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_397034da3732c1f62462a0985a3332181002550a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\e6a3667b38a64d2d41e11ab746871d35cabd88ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e384d52f9b92729862b4cce33351c7907bac3e49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\d709d9d9c0592bb4ba64758358de877ac62345db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b286f129c638b91d20d1f38b5f96ea968ef8b15d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\2d14eaf7c5bc47d84e4d3f391a506a84333afbe1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad36f4ad1df39d87fae8c04f607636ba00dd5e6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\737f658cad6bdb7388013c5ae0c9435099ab32d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c79fde27ffbf1d1be5d954f96deeeef5415557a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\9b9d5a20c94afc8b0e4da71c03800440e0983f97\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a55059e5a005135c6a43e2a1f14aaaee35fe6ae6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\405499f020164a5b42704cbfd5f0f0d0c9934f15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72a5c666402b2b0771a89fd719caed993bada753\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\d8522d968b7028d928672c7ec6e4072ac0a30800\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02f308b2326d112c53112aff402761d2b29ce6f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\657924197d8f4f9a2bd82dec204a4a8842e95452\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51938ee6472c5f0c38bd00b1d6f004e7c8ad8647\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\f97215cdb1be9f1086da44c30f84314ef024c188\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e09bf7ac7f56e1160d021c2364420de823c4d436\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\f98da581b4d442848e483fdb3e9e966557355267\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_229e445c4515bb7be866a1e702bc95f259d64073\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\47570adfb3ee1189cc171b272bb761890d9667ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b8f13d3217442686095498d318464e90ac286c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\2c8a2b577bf586b76e9c372ad4432cdbd09579cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29aec6e34970d0286333a81627e8823fa446e733\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\20298c19de142e1f1b39bf59eac23e080d2d936a\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_607fa1f083ff993dbd25bceb7cbe7494d432203c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\8f6874db460bd73ce785de74f9febab8341145ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d3ba83bfe98933bd500bfee67e101696de0ea19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\049adbcbe4a57e3a2485714bf7647b521b07c285\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a2ffea34fea5b5ef6a19aad336518db4d480b12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\5c85386c9e4681d67b592da57421ef3e098d10b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_922c6bd37fa3fe7f41da69ac90a2d7d4359fd9ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\615614e7675409946ff99826501993841306dd23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d1b91679aa735013d4264099cc6520788082d33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\0a4263a54278209245394834108ae912cc618acb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae0327f558b22b9bd53cdab0a5fe7b7fa36e9f0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\b3b71ed9b5e8d63bcfe84b433465d6989cb63c11\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1133d78cabae5dc0dd34031f279c088e18d69729\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\5562c8d31678fd81cfd9bbaf3144cdcaca39540d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14dc80a8b92542a0b7a4e6f926dff84cdfd2192c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\729879eadb88d628231799c171b6686eda15bb53\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_931182a12d8695621b058cf9a6910a92d0928c97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\361011a00ed7ae1c2c2578f38d648850100de980\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8253668d28067050476f918722e479aae8d7f69f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\401a10eb048deed8b2342e64e8ef1334a5b04955\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0880db27cfa7e1e1b14ea682fc73d717c3b63e26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\0efe63b7bee03e3f63ee6754f0691743321942a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ea0333957d90bf2c32039aa839c8d9ed55d42f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\07f58989a98cd3032b0f652b852431778f9ee894\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4e89bcaf70481a3d1bfa369e92e9625dfb766fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\a1e8f4e4da5efecc3a6c89601f2fd50d689aac2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e901e6f470f811779c7ba5a5457053633d4318c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\191e62cfe75d70d8a0d6deaa38aef3d66280c954\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f91b789acaacf69f2d35872458c6a7eb401e3cb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\4bf81fdb330559089a63c8be73fd6ed317716dbc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c52128089f1381d8e0d1489257a7dc9ec97919e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\84b2f8030f4bcd30541393b27ebe82e1af71a883\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce4b7b2a4dce8f01e813cc22ecf8580ae0174f75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\5955c1877f7ea2b88da6ef6d2eff934573d8526e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e56afa10ec6f31cf08338f27e7fa2bb3e89bc74c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\a1c60e9fdfbfe87cec742dd7c98a1e1bf7dbb297\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8dc4d38c28cb09e9f33218be277c606e104792e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_3efb7d0ef95380887ef3d3abbf1da157b23df590\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\84b2f8030f4bcd30541393b27ebe82e1af71a883\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6b2bea872f50a8cdae8764b53e5c33ba5a09498b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\db8d7768909afd469966536f8e333834f6b0a18f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_311aadd024a731f82117172f14fdaf774c8d7c94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_22fee5ffb471282a1dc32efb92da212851797d06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\fbaee24465417ec5ed66006c6001e3816d2954dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6641b93d263fe2fc7b147fd0c6c416a7027fb14e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\60dab9dda3c00866d118960f436654bf3d4e00f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71176682eea45d14eeefb59d275a50f944cdc52e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\acd25186c68869dcc426506ee4c696f2e06d0e0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d94dd7c9eb1d061767c47d24bb51f029f4073ee0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\a35f5e8dcf5dd1ac8ff360118c681e11e3763259\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c2558ef3a1938cc83bf2112e5223dad4a9281b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\18ce07020339c897a92323a179297c86079b2661\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b3be1e2877fdad108aa0d23f783f509f8cc51ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\af17a9ceb26976569da755656a3e85e15182cd5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a48c492dba2b40b0fa3c19cefdd8f4dee982d44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\d1d7ac5b4018649d76cc2e207389069df2fe1e2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a37f69468cd861a737941e08ef432f00aaf8967\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\a093a1bb24f39ee71c21a8c1840243814faf6ccc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_222d642d451cf1270282278fec1fc2c0b9f2274f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\27d4f2f99f7c1a79348eb9eaa3734e3fcdc7696c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e692eccbc031e4efe7cbb60fd63343737517dde4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_8d90621c94cfe8a84f171fb89280faaf94e4bdf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\61d549ba29f9adaa252f0a70b6cd0ccd14b57419\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1960b9783d59a148b8c2a423c84970295a2d672\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\e5241a6555a691ed1dd01e003d1881ef102ddb7a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f323f389d8d2c22d8ba8dfbc716cfffa059d1816\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\3969aaf92d3b1026df4e1cb530bff3e113c60ea1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b23c16e2696a5fa34b08a2198a19829bdec2e8d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\57c77d4347cd7851be5ce2fe54bd2cd938e1f53d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e80e9318930702de1615d1ef0f252e8880dcf9ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\1dbd5533ff2587ee77e37414c598c8e7682e3733\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27cdf3b677bbb614be44aedd570bf496b943b57e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\278bc7f403bc3d814896f5350ca89876ad896983\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2ea6fd9de9ec7845cb7483a8079120d4e7fe839\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\07b44e5493c5b071bb1b4dc8d57cf8ddb750f2e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9f9ba1fe22b7761395e57d5aca06525fdf4d67e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\315883a74c47b318c6fc1c2d7e482c6a2c7f7460\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52be915577dbd1d1105df40783ea1f9c0fc3d1a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9b0237d45fd62256cf24944158e4a87d0729fbcd">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_625db6022f5558eb8a00f9f15a709f4eb887482b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ekero\.android\build-cache\a07fd7a9a53be6d3a3f06a5fb7d5e52658229e8b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\ekero\Desktop\oguzhan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a4cbc17fae34c39d18524461319e0695cd27296\classes.dex" />
+    </item>
+
+</items>
